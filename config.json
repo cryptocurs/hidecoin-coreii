@@ -1,0 +1,12 @@
+{
+  "net": {
+    "server": {
+      "port": 7438
+    }
+  },
+  "miner": {
+    "addresses": [
+      
+    ]
+  }
+}
