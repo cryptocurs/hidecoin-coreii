@@ -1,15 +1,5 @@
 {
   "servers": {
-    "109.120.176.21": {
-      "port":7438,
-      "isIpv6":false,
-      "prime":true
-    },
-    "212.47.228.139": {
-      "port":7438,
-      "isIpv6":false,
-      "prime":true
-    },
     "77.221.144.5": {
       "port":7438,
       "isIpv6":false,
